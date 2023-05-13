@@ -1,6 +1,6 @@
 ### Hi, i`m Kirill Khityaev 👋
 
-![KhitK0101's github stats](https://github-readme-stats.vercel.app/api?username=khitK0101&show_icons=true&title_color=fff&icon_color=6A5ACD&text_color=FFD700&bg_color=151515)
+![KhitK0101's github stats](https://github-readme-stats.vercel.app/api?username=khitK0101&show_icons=true&title_color=FFD700&icon_color=6A5ACD&text_color=FFAFA&bg_color=151515)
 
 #### Backend
 
