@@ -14,6 +14,7 @@
 
 ![Telegram Bot Api](https://img.shields.io/badge/-TelegramBotApi-000?&logo=telegram)
 
+<!--
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
