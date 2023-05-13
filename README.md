@@ -7,6 +7,7 @@
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
 ![Django](https://img.shields.io/badge/-Django-000?&logo=Django)
 ![DjangoRestFramework](https://img.shields.io/badge/-Django_Rest_Framework-000?&logo=Django)
+![Postman](https://img.shields.io/badge/-Postman-000?&logo=Postman)
 
 #### Tools
 ![Git](https://img.shields.io/badge/-Git-000?&logo=Git)
