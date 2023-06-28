@@ -9,14 +9,15 @@
 ![Django](https://img.shields.io/badge/-Django-000?&logo=Django)
 ![DjangoRestFramework](https://img.shields.io/badge/-Django_Rest_Framework-000?&logo=Django)
 ![Postman](https://img.shields.io/badge/-Postman-000?&logo=Postman)
+![Gunicorn](https://img.shields.io/badge/-Gunicorn-000?&logo=Gunicorn)
+![Vim](https://img.shields.io/badge/-Vim-000?&logo=Vim)
 
 #### Tools
 ![Git](https://img.shields.io/badge/-Git-000?&logo=Git)
 ![Github](https://img.shields.io/badge/-Github-000?&logo=Github)
 ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
 ![Telegram Bot Api](https://img.shields.io/badge/-TelegramBotApi-000?&logo=telegram)
-![Gunicorn](https://img.shields.io/badge/-Gunicorn-000?&logo=Gunicorn)
-![Vim](https://img.shields.io/badge/-Vim-000?&logo=Vim)
+
 
 <!--
 Here are some ideas to get you started:
