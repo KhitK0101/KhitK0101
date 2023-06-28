@@ -14,6 +14,7 @@
 
 #### Tools
 ![Git](https://img.shields.io/badge/-Git-000?&logo=Git)
+![Git](https://img.shields.io/badge/-VisualStudioCode-000?&logo=VisualStudioCode)
 ![Github](https://img.shields.io/badge/-Github-000?&logo=Github)
 ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
 ![Telegram Bot Api](https://img.shields.io/badge/-TelegramBotApi-000?&logo=telegram)
