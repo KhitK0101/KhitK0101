@@ -8,16 +8,19 @@
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
 ![Django](https://img.shields.io/badge/-Django-000?&logo=Django)
 ![DjangoRestFramework](https://img.shields.io/badge/-Django_Rest_Framework-000?&logo=Django)
-![Postman](https://img.shields.io/badge/-Postman-000?&logo=Postman)
-![Gunicorn](https://img.shields.io/badge/-Gunicorn-000?&logo=Gunicorn)
-![Vim](https://img.shields.io/badge/-Vim-000?&logo=Vim)
 
 #### Tools
+
+![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
 ![Git](https://img.shields.io/badge/-Git-000?&logo=Git)
 ![Git](https://img.shields.io/badge/-VisualStudioCode-000?&logo=VisualStudioCode)
 ![Github](https://img.shields.io/badge/-Github-000?&logo=Github)
+![Gunicorn](https://img.shields.io/badge/-Gunicorn-000?&logo=Gunicorn)
 ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
+![nginx](https://img.shields.io/badge/-nginx-000?&logo=nginx)
+![Postman](https://img.shields.io/badge/-Postman-000?&logo=Postman)
 ![Telegram Bot Api](https://img.shields.io/badge/-TelegramBotApi-000?&logo=telegram)
+![Vim](https://img.shields.io/badge/-Vim-000?&logo=Vim)
 
 
 <!--
