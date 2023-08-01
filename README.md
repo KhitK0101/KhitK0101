@@ -18,9 +18,9 @@
 ![Gunicorn](https://img.shields.io/badge/-Gunicorn-000?&logo=Gunicorn)
 ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
 ![nginx](https://img.shields.io/badge/-nginx-000?&logo=nginx)
-![Postman](https://img.shields.io/badge/-Postman-000?&logo=Postman)
+# ![Postman](https://img.shields.io/badge/-Postman-000?&logo=Postman)
 ![Telegram Bot Api](https://img.shields.io/badge/-TelegramBotApi-000?&logo=telegram)
-![Vim](https://img.shields.io/badge/-Vim-000?&logo=Vim)
+# ![Vim](https://img.shields.io/badge/-Vim-000?&logo=Vim)
 
 
 <!--
