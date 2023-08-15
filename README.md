@@ -1,6 +1,5 @@
 ## Hi, i`m Kirill Khityaev 👋
 <div id="stat" align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=khitK0101&theme=transparent&hide_border=true" alt=""/>
   ![KhitK0101's github stats](https://github-readme-stats.vercel.app/api?username=khitK0101&show_icons=true&title_color=F8F8FF&icon_color=6A5ACD&text_color=FFFAFA&bg_color=151515)
   ![KhitK0101's github langs](https://github-readme-stats.vercel.app/api/top-langs/?username=khitK0101&show_icons=true&title_color=F8F8FF&icon_color=6A5ACD&text_color=FFFAFA&bg_color=151515)
 </div>
