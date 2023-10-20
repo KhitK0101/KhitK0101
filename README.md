@@ -23,12 +23,9 @@
 <!--  ![Vim](https://img.shields.io/badge/-Vim-000?&logo=Vim) -->
 
 ## Сертификаты Яндекс.Практикум:
-<div id="stat" align="center" gap="20">
-    <pdf src="./Certificate/KhityaevKirillRU.jpg"  alt="Диплом
-    Python-разработчик" width="500"/>
-    <pdf src="./Certificate/KhityaevKirillEN.jpg"  alt="Диплом
-    Python-разработчик" width="500"/>
-</div>
+
+![certificateru](https://github.com/KhitK0101/KhitK0101/tree/main/Certificate/KhityaevKirillRU.jpg)
+![certificateruen](https://github.com/KhitK0101/KhitK0101/tree/main/Certificate/KhityaevKirillEN.jpg)
 
 <!--
 Here are some ideas to get you started:
