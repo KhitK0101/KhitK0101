@@ -24,10 +24,8 @@
 
 ## Сертификаты Яндекс.Практикум:
 <div id="stat" align="center" gap="20">
-    <pdf src="./img/KhityaevKirillRU.md"  alt="Диплом
-    Python-разработчик" width="500"/>
-    <pdf src="./img/KhityaevKirillEN.md"  alt="Диплом
-    Python-разработчик" width="500"/>
+    ![image](https://github.com/KhitK0101/KhitK0101/blob/readme_images/output-000.jpg?raw=true)
+    ![image](https://github.com/KhitK0101/KhitK0101/blob/readme_images/output-001.jpg?raw=true)
 </div>
 
 <!--
