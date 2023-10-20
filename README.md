@@ -24,8 +24,8 @@
 
 ## Сертификаты Яндекс.Практикум:
 
-![certificateru](https://github.com/KhitK0101/KhitK0101/tree/main/Certificate/KhityaevKirillRU.jpg?&width=300?&height=700)
-![certificateruen](https://github.com/KhitK0101/KhitK0101/tree/main/Certificate/KhityaevKirillEN.jpg?&width=300?&height=700)
+![certificateru](https://github.com/KhitK0101/KhitK0101/blob/main/Certificate/KhityaevKirillRU.jpg)
+![certificateruen](https://github.com/KhitK0101/KhitK0101/blob/main/Certificate/KhityaevKirillEN.jpg)
 
 <!--
 Here are some ideas to get you started:
