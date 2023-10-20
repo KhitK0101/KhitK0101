@@ -25,8 +25,8 @@
 ## Сертификаты Яндекс.Практикум:
 
 <div id="stat" align="center" gap="20">
-    <img src="Certificate/KhityaevKirillRU.jpg" width="500">
-    <img src="Certificate/KhityaevKirillRU.jpg" width="500">
+    <img src="Certificate/KhityaevKirillRU.jpg" width="400">
+    <img src="Certificate/KhityaevKirillEN.jpg" width="400">
 </div>
 
 <!--
