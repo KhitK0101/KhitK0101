@@ -24,8 +24,10 @@
 
 ## Сертификаты Яндекс.Практикум:
 
-![certificateru](https://github.com/KhitK0101/KhitK0101/blob/main/Certificate/KhityaevKirillRU.jpg?&height=200)
-![certificateruen](https://github.com/KhitK0101/KhitK0101/blob/main/Certificate/KhityaevKirillEN.jpg?&height=200)
+<div>
+    <img alt="700" width="300" src="{% 'Certificate/KhityaevKirillRU.jpg' %}">
+    <img alt="700" width="300" src="{% 'Certificate/KhityaevKirillRU.jpg' %}">
+ </div>
 
 <!--
 Here are some ideas to get you started:
