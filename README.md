@@ -22,6 +22,14 @@
 ![Telegram Bot Api](https://img.shields.io/badge/-TelegramBotApi-000?&logo=telegram)
 <!--  ![Vim](https://img.shields.io/badge/-Vim-000?&logo=Vim) -->
 
+## Сертификаты Яндекс.Практикум:
+<div id="stat" align="center" gap="20">
+    <pdf src="./img/KhityaevKirillRU.pdf"  alt="Диплом
+    Python-разработчик" width="500"/>
+    <pdf src="./img/KhityaevKirillEN.pdf"  alt="Диплом
+    Python-разработчик" width="500"/>
+</div>
+
 <!--
 Here are some ideas to get you started:
 
