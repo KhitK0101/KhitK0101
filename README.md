@@ -24,10 +24,10 @@
 
 ## Сертификаты Яндекс.Практикум:
 
-<div>
-    <img alt="700" width="300" src="{% 'Certificate/KhityaevKirillRU.jpg' %}">
-    <img alt="700" width="300" src="{% 'Certificate/KhityaevKirillRU.jpg' %}">
- </div>
+<div id="stat" align="center" gap="20">
+    <img src="Certificate/KhityaevKirillRU.jpg" width="500">
+    <img src="Certificate/KhityaevKirillRU.jpg" width="500">
+</div>
 
 <!--
 Here are some ideas to get you started:
